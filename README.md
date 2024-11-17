@@ -1,3 +1,3 @@
 - ## [Unsatisfied](https://chatgpt.com/share/6732fb22-8c64-8004-a508-727ec98fa55c)
-- ## [MFAANG Developer Hiring Criteria](https://chatgpt.com/share/67081fd4-bde0-8013-8188-3ffc872c9ad0)
+- ## [MFAANG Developer Hiring Criteria](https://chatgpt.com/share/6739fa29-a244-8004-8989-83f823a7c939)
 - ## [Message to share](https://chatgpt.com/share/6739f0db-fb8c-8004-96d4-9064b8d85d7b)
