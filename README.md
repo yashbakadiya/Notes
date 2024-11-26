@@ -4,3 +4,4 @@
 - ## [Basic Questions](https://github.com/Preparation-Street/Programming-Street-150)
 - ## [Company wise question](https://github.com/hxu296/leetcode-company-wise-problems-2022/)
 - ## [Job Switch Strategy](https://chatgpt.com/share/673ee048-ae28-8013-a2ee-efbb66765c78)
+- ## [Job Switch Strategy](https://github.com/donnemartin/system-design-primer)
