@@ -1,4 +1,4 @@
-[System Design Primer](https://github.com/donnemartin/system-design-primer)/[System Design Primer](https://www.youtube.com/watch?v=SqcXvc3ZmRU&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+[System Design Primer](https://github.com/donnemartin/system-design-primer)/[Playlist](https://www.youtube.com/watch?v=SqcXvc3ZmRU&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
 Here’s a table of contents or topic overview for starting system design from scratch, aggregated from multiple trusted sources:
 
