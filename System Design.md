@@ -1,4 +1,5 @@
 [System Design Primer](https://github.com/donnemartin/system-design-primer)/[Playlist](https://www.youtube.com/watch?v=SqcXvc3ZmRU&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+Refer book (Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable Systems)
 
 Here’s a table of contents or topic overview for starting system design from scratch, aggregated from multiple trusted sources:
 
