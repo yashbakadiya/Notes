@@ -1,4 +1,3 @@
-- ## [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - ## [Job Switch Strategy](https://chatgpt.com/share/673ee048-ae28-8013-a2ee-efbb66765c78)
 - ## [MasterCard](https://chatgpt.com/share/673a01cf-2fb8-8004-9ffb-9bba5000ab4c)
 - ## [Basic Questions](https://github.com/Preparation-Street/Programming-Street-150)
