@@ -1,4 +1,3 @@
-Here's the data organized into a clear hierarchical structure:
 
 * * *
 
