@@ -1,3 +1,4 @@
+- ## [DSA](https://github.com/yashbakadiya/Notes/blob/master/DSA.md)
 - ## [System Design](https://github.com/yashbakadiya/Notes/blob/master/System%20Design.md)
 - ## [Job Switch Strategy](https://chatgpt.com/share/673ee048-ae28-8013-a2ee-efbb66765c78)
 - ## [MasterCard](https://chatgpt.com/share/673a01cf-2fb8-8004-9ffb-9bba5000ab4c)
